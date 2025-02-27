@@ -1,34 +1,34 @@
 const Questions = [
     {
-        q: "Fill in the blank: Snow leopards live _____.",
-        a: [{text: "in the desert.", isCorrect: false},
-            {text: "in the jungle.", isCorrect: false},
-            {text: "in the mountains.", isCorrect: true},
-            {text: "in the city.", isCorrect: false},
+        q: "What year did the first superbowl take place?",
+        a: [{text: "2005", isCorrect: false},
+            {text: "1789", isCorrect: false},
+            {text: "1967", isCorrect: true},
+            {text: "1999.", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        q: "Who is the Packers current quarterback?",
+        a: [{text: "Dak Prescott", isCorrect: false},
+            {text: "Jordan Love", isCorrect: true},
+            {text: "Brock Purdy", isCorrect: false},
+            {text: "Aaron Rodgers", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "killing their prey.", isCorrect: false},
-            {text: "grabbing objects.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "Who wears #8 on the Packers?",
+        a: [{text: "Josh Jacobs", isCorrect: true},
+            {text: "Jordan Love", isCorrect: false},
+            {text: "Cristan Watson", isCorrect: false},
+            {text: "Jaylen Reed", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "What team did the GreenBay Packers face in the first superbowl?",
+        a: [{text: "New England Patriots", isCorrect: false},
+            {text: "Pittsburgh Steelers", isCorrect: false},
+            {text: "Oakland Raiders", isCorrect: false},
+            {text: "Kansas City Chiefs", isCorrect: true},
            ]
     },
     

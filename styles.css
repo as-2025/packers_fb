@@ -63,11 +63,11 @@ a {
 }
 
 a:link {
-    color:white;
+    color:yellow;
 }
 
 a:visited {
-    color: yellow;
+color: rgb(13, 213, 53)  ;
 }
 
 a:hover {

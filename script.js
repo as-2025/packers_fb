@@ -4,7 +4,7 @@ const Questions = [
         a: [{text: "2005", isCorrect: false},
             {text: "1789", isCorrect: false},
             {text: "1967", isCorrect: true},
-            {text: "1999.", isCorrect: false},
+            {text: "1999", isCorrect: false},
            ]
     },
     {

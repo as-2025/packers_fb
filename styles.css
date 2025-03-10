@@ -20,7 +20,8 @@ body {
     width: 100%;
     z-index: 9999;    
     background-color: darkgreen;
-    box-shadow: 2px 2px 2px yellow;
+    box-shadow: 1px 1px 1px yellow;
+    
 }
 
 h1 {
@@ -67,7 +68,7 @@ a:link {
 }
 
 a:visited {
-color: green;
+color: rgb(5, 193, 5);
 }
 
 a:hover {

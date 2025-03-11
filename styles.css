@@ -68,10 +68,10 @@ a:link {
 }
 
 a:visited {
-color: rgb(5, 193, 5);
+color: yellow;
 }
 
 a:hover {
-    color: yellow;
+    color: white;
     font-size: 15px;
 }
